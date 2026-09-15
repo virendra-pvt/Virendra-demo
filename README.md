@@ -2,4 +2,6 @@
 this is my first git repository
 <br>
 owner : Virendra Patil
-A=input("anter A";A=)
+A=input("enter A";A=)
+B=input("enter B";B=)
+
